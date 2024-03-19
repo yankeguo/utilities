@@ -10,22 +10,22 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
-    "@nuxt/devtools": "latest",
-    "nuxt": "^3.9.1",
-    "vue": "^3.4.5",
-    "vue-router": "^4.2.5"
+    "@nuxt/devtools": "^1.0.8",
+    "nuxt": "^3.11.1",
+    "vue": "^3.4.21",
+    "vue-router": "^4.3.0"
   },
   "dependencies": {
     "@codemirror/lang-json": "^6.0.1",
     "@codemirror/theme-one-dark": "^6.1.2",
     "@iconify-json/mdi": "^1.1.64",
-    "@iconify-json/simple-icons": "^1.1.87",
-    "@nuxt/ui": "^2.11.1",
+    "@iconify-json/simple-icons": "^1.1.96",
+    "@nuxt/ui": "^2.14.2",
     "@tailwindcss/typography": "^0.5.10",
     "codemirror": "^6.0.1",
-    "js-base64": "^3.7.5",
-    "marked": "^9.1.6",
+    "js-base64": "^3.7.7",
+    "marked": "^12.0.1",
     "vue-codemirror": "^6.1.1",
-    "yaml": "^2.3.4"
+    "yaml": "^2.4.1"
   }
 }
